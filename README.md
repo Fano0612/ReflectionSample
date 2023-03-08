@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Github All Releases](https://img.shields.io/github/downloads/htr3n/php-project-template/total.svg)](https://github.com/htr3n/php-project-template/releases)
 
-This project `Fano0612/ReflectionSample` defines a simple starting point, PSR-4-compliant project skeleton for PHP development.
+This project `Fano0612/ReflectionSample` defines a simple PHP training for beginner.
 
 
 ## Installation
