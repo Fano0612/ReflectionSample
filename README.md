@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Github All Releases](https://img.shields.io/github/downloads/htr3n/php-project-template/total.svg)](https://github.com/htr3n/php-project-template/releases)
 
-This project `htr3n/project-template` defines a simple starting point, PSR-4-compliant project skeleton for PHP development.
+This project `Fano0612/ReflectionSample` defines a simple starting point, PSR-4-compliant project skeleton for PHP development.
 
 
 ## Installation
@@ -13,13 +13,13 @@ This project `htr3n/project-template` defines a simple starting point, PSR-4-com
 For the starting point, just check out the git project
 
 ```sh
-git clone https://github.com/htr3n/php-project-template.git
+git clone https://github.com/Fano0612/ReflectionSample.git
 ```
 
 or using `composer`
 
 ```sh
-composer create-project htr3n/php-project-template your-project-name
+composer create-project Fano0612/ReflectionSample your-project-name
 ```
 
 Then, get into the newly created folder and issue the command `composer install` to retrieve necessary packages for your development and testing environment.
